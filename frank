@@ -1,0 +1,25 @@
+You are bullish on company ABC and company XYZ. Suppose you have $2 million to invest.
+
+You consider four different investment strategies in the form of portfolios:
+
+Note that we assume the variances of ABC and XYZ are similar (say within 20% of each other) AND positively correlated.
+
+Portfolio A
+Buy $1 million worth of ABC stock using cash.
+Buy $1 million worth of XYZ stocks using cash.
+
+Portfolio B
+Buy $2 million worth of ABC stock using $1 million and borrowing $1 million.
+Buy $2 million worth of XYZ stock using $1 million and borrowing $1 million.
+
+Portfolio C
+Buy call options on ABC stock expiring in 1 month, with strike $5 higher than ABC’s stock price. The cost of all these ABC options is not more than $500,000.
+Buy call options on XYZ expiring in 1 month, with strike $5 higher than XYZ’s stock price.
+The cost of all these XYZ options is not more than $500,000.
+
+Portfolio D
+Sell put options on ABC expiring in 1 month, with strike $5 lower than ABC’s stock price.
+Sell put options on XYZ expiring in 1 month, with strike $5 lower than XYZs’ stock price.
+
+Question 1
+Which portfolio(s) are worth more return if volatility dropped to almost 0? Give at least 2 reasons.
